@@ -1,4 +1,4 @@
-# Random-Password-Generator-GUI
+# Random-FOSS-Password-Generator-GUI
 A python password generator with choice of how long the password should be , number of alphabets , number of digits , number of symbols.Has GUI. Still in development
 
 Instructions
